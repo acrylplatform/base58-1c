@@ -1,9 +1,9 @@
 # Base58 for 1C
 
 
-Base58 encoding / encoding function without using an external component.
+Base58 encoding / decoding function without using an external component.
 
-These algorithms are ported from JS. Based on the ts-lib-crypto library. External components were not used in development. To use algorithms, a platform version of at least 8.3.11 is required.
+These algorithms are ported from JS. Based on the [ts-lib-crypto] (https://github.com/acrylplatform/ts-lib-crypto) library. External components were not used in development. To use algorithms, a platform version of at least 8.3.11 is required.
 
 
 ## Installation and use
